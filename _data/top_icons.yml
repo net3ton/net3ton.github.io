@@ -1,0 +1,19 @@
+- name: linkedin
+  link: "https://linkedin.com/in/net3ton"
+  icon: "/assets/social-icons.svg#linkedin"
+
+- name: github
+  link: "https://github.com/net3ton"
+  icon: "/assets/social-icons.svg#github"
+
+- name: itch.io
+  link: "https://net3ton.itch.io/"
+  icon: "/assets/social-icons.svg#itchio"
+
+- name: twitter
+  link: "https://twitter.com/net3ton"
+  icon: "/assets/social-icons.svg#twitter"
+
+- name: instagram
+  link: "https://instagram.com/net3ton"
+  icon: "/assets/social-icons.svg#instagram"
