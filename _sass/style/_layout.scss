@@ -4,7 +4,7 @@
 .site-header {
   border-top: 1px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  //min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -27,7 +27,24 @@
 
 .site-link {
   float: right;
+  display: inline-block;
+  position: relative;
+  display:flex;
 }
+
+//@media all and (max-width: 500px) and (min-height: 400px)
+//{
+  /*
+  .site-link {
+    display: inline-block;
+    position: relative;
+  
+    text-align: center;
+    display:flex;
+    justify-content:center;
+  }
+  */
+//}
 
 /**
  * Site footer

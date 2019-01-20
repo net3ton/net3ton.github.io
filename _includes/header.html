@@ -13,13 +13,15 @@
       {%- endif -%}
     {%- endfor -%}
     
-    {% assign topicons = site.data.top_icons | reverse %}
+    <nav class="site-link">
+    {% assign topicons = site.data.top_icons %}
     {% for topicon in topicons %}
-    <a class="site-link" href="{{ topicon.link }}">
+    <a href="{{ topicon.link }}">
       <svg class="svg-icon">
         <use xlink:href="{{ topicon.icon }}"></use>
       </svg>
     </a>
     {% endfor %}
+    </nav>
   </div>
 </header>
