@@ -23,13 +23,18 @@
   &:visited {
     color: $grey-color-light;
   }
+
+  &:hover {
+    color: $select-color;
+    text-decoration: none;
+  }
 }
 
 .site-link {
   float: right;
   display: inline-block;
   position: relative;
-  display:flex;
+  display: flex;
 }
 
 @media only screen and (max-width: 600px) {

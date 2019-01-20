@@ -241,6 +241,10 @@ pre {
     padding-top: 10px;
 }
 
+.svg-icon:hover {
+  fill: #{$select-color};
+}
+
 .social-media-list {
   li + li {
     padding-top: 5px;
