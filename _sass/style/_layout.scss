@@ -32,19 +32,19 @@
   display:flex;
 }
 
-//@media all and (max-width: 500px) and (min-height: 400px)
-//{
-  /*
+@media only screen and (max-width: 600px) {
+  //.wrapper-body {
+  //  background: lightblue;
+  //}
+
   .site-link {
-    display: inline-block;
-    position: relative;
-  
+    float: none;
     text-align: center;
-    display:flex;
-    justify-content:center;
+    justify-content: center;
+
+    clear: both;
   }
-  */
-//}
+}
 
 /**
  * Site footer
