@@ -37,10 +37,26 @@
   display: flex;
 }
 
+.site-sublinks {
+  float: left;
+}
+
+
+.panos-block {
+  padding: 0px;
+  margin: 0px;
+  line-height: 1;
+}
+
+
 @media only screen and (max-width: 600px) {
   //.wrapper-body {
   //  background: lightblue;
   //}
+
+  .site-sublinks {
+    float: right;
+  }
 
   .site-link {
     float: none;

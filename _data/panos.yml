@@ -1,0 +1,65 @@
+- name: "Kuala-Lumpur, Malaysia"
+  file: "Malaysia_Kuala-Lumpur.jpg"
+
+- name: "Kuala-Lumpur, Malaysia"
+  file: "Malaysia_Kuala-Lumpur_Hostel.jpg"
+
+- name: "Cameron Highlands, Malaysia"
+  file: "Malaysia_Cameron-Highlands.jpg"
+
+- name: "Pangkor, Malaysia"
+  file: "Malaysia_Pangkor.jpg"
+
+- name: "Moalboal, Philippines"
+  file: "Philippines_Moalboal.jpg"
+
+- name: "Banaue, Philippines"
+  file: "Philippines_Banaue.jpg"
+
+- name: "Nam Lian Garden, Hong Kong"
+  file: "Hong-Kong_Nam-Lian-Garden-1.jpg"
+
+- name: "Nam Lian Garden, Hong Kong"
+  file: "Hong-Kong_Nam-Lian-Garden-2.jpg"
+
+- name: "Hanoi, Vietnam"
+  file: "Vietnam_Hanoi.jpg"
+
+- name: "Ninh Binh, Vietnam"
+  file: "Vietnam_Ninh-Binh-1.jpg"
+
+- name: "Ninh Binh, Vietnam"
+  file: "Vietnam_Ninh-Binh-2.jpg"
+
+- name: "Kamenets-Podolsky, Ukraine"
+  file: "Ukraine_Kamenets-Podolsky-1.jpg"
+
+- name: "Kamenets-Podolsky, Ukraine"
+  file: "Ukraine_Kamenets-Podolsky-2.jpg"
+
+- name: "Khotin, Ukraine"
+  file: "Ukraine_Khotin-1.jpg"
+
+- name: "Khotin, Ukraine"
+  file: "Ukraine_Khotin-2.jpg"
+
+- name: "Tallinn, Estonia"
+  file: "Estonia_Tallinn-1.jpg"
+
+- name: "Tallinn, Estonia"
+  file: "Estonia_Tallinn-2.jpg"
+
+- name: "Helsinki, Finland"
+  file: "Finland_Helsinki-1.jpg"
+
+- name: "Helsinki, Finland"
+  file: "Finland_Helsinki-2.jpg"
+
+- name: "Vilnius, Lithuania"
+  file: "Lithuania_Vilnius.jpg"
+
+- name: "Kyiv, Ukraine"
+  file: "Ukraine_Kyiv.jpg"
+
+- name: "Balaklava, Ukraine"
+  file: "Ukraine_Crimea_Balaklava.jpg"
